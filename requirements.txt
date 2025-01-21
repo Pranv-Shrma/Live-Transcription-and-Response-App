@@ -1,0 +1,9 @@
+numpy==1.26.1
+tensorflow
+websockets
+pyaudio
+openai
+fastapi
+pydantic
+sounddevice
+uvicorn
